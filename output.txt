@@ -1,0 +1,19 @@
+# python3 randomwords.py random.txt -t header.txt -i train.txt -s test.txt -l 10
+this is a header
+this is line 2
+===Begin Training Words===
+this will always be in the training list
+so will this
+4
+8
+14
+1
+11
+2
+5
+10
+===Begin Testing Words===
+this will always be in the testing list
+and so will this one
+15
+9
